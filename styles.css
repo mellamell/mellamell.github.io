@@ -1,0 +1,25 @@
+
+
+
+
+/* TABLET */
+@media(min-width:576px){
+
+    .background-mobile{
+        display: none;
+    }
+
+}
+
+
+
+/* MOBILE */
+@media(max-width:576px){
+    .background{
+        background-size: cover;
+        display: none;
+    }
+
+}
+
+
